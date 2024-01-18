@@ -1,5 +1,22 @@
+<!--![](https://komarev.com/ghpvc/?username=MenvielleValen&color=36b812)<br>-->
+
 ### Hi there 👋
 
+I’m Valentin, passionate about software development 💙.
+
+### Skills 🛠️
+- **Languages**:&nbsp; Typescript (TS), Javascript (JS), C#
+- **Frontend**: &nbsp; Angular, React, React Native
+- **Backend**: &nbsp; Express, NestJS
+- **Database**:&nbsp; MongoDB, MySQL, PostgreSQL
+- **Version Control**: &nbsp; Git
+- **Testing**: &nbsp; Jest, Jasmine
+
+<br/>
+
+⭐ In my free time, usually I program and I learn about software development.
+
+<a href="https://www.linkedin.com/in/valentinmenviellecandia/">My Linkedin</a>
 <!--
 **MenvielleValen/MenvielleValen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
