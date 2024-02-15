@@ -6,8 +6,7 @@ I’m Valentin, passionate about software development 💙.
 
 ### Skills 🛠️
 - **Languages**:&nbsp; Typescript (TS), Javascript (JS), C#
-- **Frontend**: &nbsp; Angular, React, React Native
-- **Backend**: &nbsp; Express, NestJS
+- **Frontend/backend**: &nbsp; Angular, React, Next.js, React Native, Express, NestJS
 - **Database**:&nbsp; MongoDB, MySQL, PostgreSQL
 - **Version Control**: &nbsp; Git
 - **Testing**: &nbsp; Jest, Jasmine
